@@ -14,7 +14,7 @@ const config = {
     theme: "20 THÁNG 10 · MỘT NGÀY THẬT ĐẶC BIỆT",
 
     // Danh sách đường dẫn ảnh kỷ niệm (để rỗng [] sẽ tự động dùng tranh hoa mẫu)
-    photos: ["../anh6.jpg"],
+    photos: ["anh6.jpg"],
 
     // Chú thích nhỏ dưới ảnh kỷ niệm
     caption: "Người anh luôn muốn tặng hoa. ♡",
